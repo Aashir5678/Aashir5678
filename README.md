@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aashir5678
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aashir
+- 👀 I’m interested in ML, game development, cybersecurity
+- 🌱 I’m currently learning Java, NodeJS and Express
+- 💞️ I’m looking to collaborate web projects
 - 📫 How to reach me aashiralam06@gmail.com
 
 <!---
