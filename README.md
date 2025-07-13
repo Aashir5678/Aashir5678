@@ -9,5 +9,3 @@ Aashir5678/Aashir5678 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![Aashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashir5678&show_icons=true&theme=radical)
