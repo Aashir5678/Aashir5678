@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Aashir's Github Stats](https://github-readme-stats.vercel.app/api?username=Aashir5678)](https://github.com/Aashir5678/github-readme-stats)
+![Aashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashir5678&show_icons=true&theme=radical)
