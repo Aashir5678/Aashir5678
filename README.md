@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashir
-- 👀 I’m interested in ML, game development, cybersecurity, and .NET desktop applications
-- 🌱 I’m currently learning C#, NodeJS
-- 💞️ I’m looking to collaborate on .NET
+- 👀 I’m interested in ML, game development, cybersecurity, socket programming, and .NET desktop applications
+- 🌱 I’m currently learning C#, NodeJS / Express
+- 💞️ I’m looking to collaborate on .NET, NodeJS
 - 📫 How to reach me aashiralam06@gmail.com
 
 <!---
